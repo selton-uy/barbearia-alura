@@ -1,0 +1,82 @@
+body{
+    background:#CCCCCC;
+
+}
+header{
+    background:#BBBBBBBB;
+    padding: 20px 0;
+}
+.caixa{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+nav{
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+.pagina{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15% ;
+}   
+
+
+nav a {
+    
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 20pt;
+    text-decoration: none;
+}
+nav a:hover{
+    color: rgb(176, 113, 4);
+    text-decoration: underline;
+}
+#banner{
+    width: 100%;
+}
+.principal{
+    background: grey;
+    padding: 30px;
+}
+.titulo-principal{
+    padding-left: 20px;
+}
+.texto-cetralizado{
+
+    text-align: center;
+    
+}
+p{
+    text-align: center;
+    font-size: 16px;
+}
+#missao{
+    font-size: 20px;
+}
+em strong{
+    color: red;
+    
+}
+.beneficios{
+    font-size: 30px;
+    font-weight: bold;
+    background: rgb(255, 255, 255);
+    padding:0;
+}
+.itens{
+    font-size: 20px;
+    font-style: italic;
+}
+
+ul{
+    display: inline;
+    margin: 0 0 0 15px;
+}
+.imagembene{
+    width: 50%;
+}
